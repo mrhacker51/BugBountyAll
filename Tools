@@ -1,0 +1,25 @@
+dirb
+nikto
+gobuster
+dirbuster
+wpscan
+owasp10
+sitadel
+theharvester
+dmitry
+Burp-Suite
+dotdotpwn
+commix
+
+-------------------
+whatweb
+whois
+dnslookup
+dig <website>
+dig <website> ANY
+
+
+-------------------
+
+Website İnformation Gathering
+
