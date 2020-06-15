@@ -14,7 +14,9 @@ bolt
 mysql
 SQLmap
 SQLiv
-
+maltego
+Nmap
+Zenmap
 
 -------------------
 whatweb
