@@ -11,6 +11,9 @@ Burp-Suite
 dotdotpwn
 commix
 bolt
+mysql
+SQLmap
+SQLiv
 
 
 -------------------
@@ -34,4 +37,11 @@ Browser Extension
 
 FoxyProxy == > Firefox
 UserAgent == > Firefox
+
+---------------------
+
+Website Backdoor :
+
+weevely
+webshells == > Kali-Linux Directory
 
