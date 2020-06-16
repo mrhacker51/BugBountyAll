@@ -23,6 +23,7 @@ subbrute
 whatweb
 whois
 dnslookup
+nslookup
 dig <website>
 dig <website> ANY
 
@@ -55,3 +56,9 @@ weevely
 webshells == > Kali-Linux Directory
 msfvenom
 metasploit
+
+
+---------------------
+
+lbd
+wafwoff
