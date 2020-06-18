@@ -1,4 +1,4 @@
-    Basic XML Example
+#   Basic XML Example
 
     <!--?xml version="1.0" ?-->
     <userInfo>
