@@ -62,3 +62,11 @@ metasploit
 
 lbd
 wafwoff
+
+-----------------------
+
+Hook -- XSS - SSRF - CSRF -- HTTP2 Request
+
+https://hookbin.com/  == SSRF - XSS - CSRF
+chrome://net-export/ == HTTP2 Request
+https://lock.cmpxchg8b.com/rebinder.html   == SSRF 
